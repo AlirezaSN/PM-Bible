@@ -2,9 +2,9 @@
 
 ## 🧠 Overview
 
-Welcome! This repository contains concise summaries of **109 top-rated product management courses** sourced from leading educational platforms, including **Udemy**, **LinkedIn Learning**, **Pendo**, **Pluralsight**, **Skillshare**, **LiveLessons**, **Coursera**, **ProductSchool**, **Coursera**, and more.
+Welcome! This repository contains concise summaries of **110+ top-rated product management courses** sourced from leading educational platforms, including **Udemy**, **LinkedIn Learning**, **Pendo**, **Pluralsight**, **Skillshare**, **LiveLessons**, **Coursera**, **ProductSchool**, **Coursera**, and more.
 
-Whether you're a beginner trying to break into product management or a seasoned PM looking to refresh your knowledge, these summaries are designed to **save you +400 HOURS** and potentially **+2000$ in subscription or course fees**.
+Whether you're a beginner trying to break into product management or a seasoned PM looking to refresh your knowledge, these summaries are designed to **save you 400+ HOURS** and potentially **2000$+ in subscription or course fees**.
 
 ## 📂 List of Summaries
 
@@ -96,6 +96,7 @@ All course summaries are organized by their **original platform** for easy brows
   - Agile Product Planning - The Foundation for Product Managers [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Agile%20Product%20Planning%20-%20The%20Foundation%20for%20Product%20Managers.pdf)
   - Agile Scrum Product Owner Certification [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Agile%20Scrum%20Product%20Owner%20Certification.pdf)
   - Become a Product Manager | Learn the Skills & Get the Job [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Become%20a%20Product%20Manager%20%7C%20Learn%20the%20Skills%20%26%20Get%20the%20Job.pdf)
+  - Complete Figma Megacourse UI-UX Design Beginner to Expert [🔗]()
   - Essential Product Management Skills for Product Managers [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Essential%20Product%20Management%20Skills%20for%20Product%20Managers.pdf)
   - Get Hired as a Product Manager [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Get%20Hired%20as%20a%20Product%20Manager.pdf)
   - How to Become Project Manager, Product Owner or Team Leader [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/How%20to%20Become%20Project%20Manager%2C%20Product%20Owner%20or%20Team%20Leader.pdf)
@@ -108,8 +109,10 @@ All course summaries are organized by their **original platform** for easy brows
   - Master Product Owner Essentials || Strategies for Success || [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Master%20Product%20Owner%20Essentials%20%7C%7C%20Strategies%20for%20Success%20%7C%7C.pdf)
   - Mastering Job Interview English - Get Your Dream Job [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Mastering%20Job%20Interview%20English%20-%20Get%20Your%20Dream%20Job.pdf)
   - Minimum Viable Product Mastery_ From Concept to Market [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Minimum%20Viable%20Product%20Mastery_%20From%20Concept%20to%20Market.pdf)
+  - Mobile App Design in Figma From Concept to Prototype [🔗]()
   - Nail the Product Management Case Interview [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Nail%20the%20Product%20Management%20Case%20Interview.pdf)
   - OKRs for Product Managers and Software-Engineers [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/OKRs%20for%20Product%20Managers%20and%20Software-Engineers.pdf)
+  - One & Only Mobile App UI-UX Design Masterclass with Figma [🔗]()
   - Optimized Training for Product Owner Certification [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Optimized%20Training%20for%20Product%20Owner%20Certification.pdf)
   - Product Management - Building Great Products [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Product%20Management%20-%20Building%20Great%20Products.pdf)
   - Product Management - Continuous Product Discovery [🔗](https://github.com/AlirezaSN/PM-Bible/blob/main/Udemy/Product%20Management%20-%20Continuous%20Product%20Discovery.pdf)
